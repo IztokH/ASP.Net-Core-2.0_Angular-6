@@ -27,13 +27,13 @@ Description:
      - E-Mail must be structured with '@' and '.' characters.
      - Phone consists of optional '+' and numeric characters. 
 
-Attached are:
+5. Attached are:
      - A concept of how to achieve and maintain internationalization description. 
      - Printscreens,
      - database backup, 
      - database script.
 
-Before run sorce code:
+6. Before run sorce code:
      - SQL server must run (i.e. in Services.exe). 
      - In Visual studio, Connection to SQL Server must be evaluated and marked in green.
      - Database Connection string in code should be set.
