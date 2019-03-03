@@ -23,9 +23,9 @@ Description:
      - phone: string type;    
      - email: string type;
 4. Validations: 
-    a) all fields are required.    
-    b) E-Mail must be structured with '@' and '.' characters.
-    c) Phone consists of optional '+' and numeric characters. 
+     - all fields are required.    
+     - E-Mail must be structured with '@' and '.' characters.
+     - Phone consists of optional '+' and numeric characters. 
 
 Attached are:
 
