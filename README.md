@@ -28,16 +28,16 @@ Description:
      - Phone consists of optional '+' and numeric characters. 
 
 Attached are:
-
-a) A concept of how to achieve and maintain internationalization description. 
-b) Printscreens,
-c) database backup, 
-d) database script.
+     - A concept of how to achieve and maintain internationalization description. 
+     - Printscreens,
+     - database backup, 
+     - database script.
 
 Before run sorce code:
-a) SQL server must run (i.e. in Services.exe). 
-b) In Visual studio, Connection to SQL Server must be evaluated and marked in green.
+     - SQL server must run (i.e. in Services.exe). 
+     - In Visual studio, Connection to SQL Server must be evaluated and marked in green.
+     - Database Connection string in code should be set.
 
 If data is not immediatelly loaded in Internet browser, click Refresh button.
 
-Publish branch was used in Git Hub from cloned repository.
+Publish was used from cloned repository.
