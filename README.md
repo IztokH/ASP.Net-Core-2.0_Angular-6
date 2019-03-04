@@ -12,7 +12,7 @@ Web Browser: Google Chrome
 
 Description:
 1. We use Dependency Injection - at the point we specify the contract for a collection of service descriptors.
-2. A concept of how to achieve and maintain internationalization description is attached in Word document.
+2. A concept of how to achieve and maintain internationalization description is attached.
 3. Backend API service and UI allow »list« and CRUD operations. After click on Delete button, confirmation message is
    shown. Underlying model is User with: 
      - id: number;
