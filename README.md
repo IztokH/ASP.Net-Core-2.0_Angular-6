@@ -1,8 +1,6 @@
 # ASP.Net-Core-2.0_Angular-6
 C# backend with SPA frontend.
 
-Sample SPA (Single-Page Application).
-
 Technologies:
 1. ASP.Net Core-2.0 - Microsoft's Open-source web framework
 2. Angular-6 - JavaScript frameworks for Frontend
@@ -10,7 +8,7 @@ Technologies:
 
 IDE: Visual Studio 2017
 
-Internet browser: Google Chrome 
+Web Browser: Google Chrome 
 
 Description:
 1. We use Dependency Injection - at the point we specify the contract for a collection of service descriptors.
